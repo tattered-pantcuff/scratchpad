@@ -1,6 +1,0 @@
-
-CSS
-<link rel="stylesheet" href="https://kit.fontawesome.com/e2922b3027.css" crossorigin="anonymous">
-
-JS
-<script src="https://kit.fontawesome.com/e2922b3027.js" crossorigin="anonymous"></script>
